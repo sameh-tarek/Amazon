@@ -1,0 +1,26 @@
+{
+  "name": "u2f-api-polyfill",
+  "main": "u2f-api-polyfill.js",
+  "version": "0.4.3",
+  "authors": [
+    "arnar"
+  ],
+  "description": "High level JavaScript API for interacting with FIDO U2F devices in Chrome",
+  "keywords": [
+    "fido",
+    "u2f"
+  ],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mastahyeti/u2f-api"
+  },
+  "homepage": "https://fidoalliance.org/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

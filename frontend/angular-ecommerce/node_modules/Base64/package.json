@@ -1,0 +1,26 @@
+{
+  "name": "Base64",
+  "version": "1.1.0",
+  "description": "Base64 encoding and decoding",
+  "author": "David Chambers <dc@davidchambers.me>",
+  "main": "./base64.js",
+  "license": "(Apache-2.0 OR WTFPL)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidchambers/Base64.js.git"
+  },
+  "devDependencies": {
+    "eslint": "5.15.x",
+    "istanbul": "0.4.x",
+    "mocha": "5.2.x",
+    "sanctuary-style": "3.0.x",
+    "uglify-js": "3.5.x",
+    "xyz": "4.0.x"
+  },
+  "files": [
+    "/LICENSE",
+    "/README.md",
+    "/base64.js",
+    "/package.json"
+  ]
+}

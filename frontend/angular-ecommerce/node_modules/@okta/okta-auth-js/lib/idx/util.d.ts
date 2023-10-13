@@ -1,0 +1,14 @@
+import { RemediationValues, Remediator } from './remediators';
+import { IdxFeature, NextStep, RemediateOptions, RemediationResponse } from './types';
+import { IdxMessage, IdxRemediation, IdxRemediationValue, IdxResponse } from './types/idx-js';
+export declare function isTerminalResponse(idxResponse: IdxResponse): boolean;
+export declare function canSkipFn(idxResponse: IdxResponse): boolean;
+export declare function canResendFn(idxResponse: IdxResponse): boolean;
+export declare function getMessagesFromIdxRemediationValue(value?: IdxRemediationValue[]): IdxMessage[] | undefined;
+export declare function getMessagesFromResponse(idxResponse: IdxResponse): IdxMessage[];
+export declare function getEnabledFeatures(idxResponse: IdxResponse): IdxFeature[];
+export declare function getAvailableSteps(idxResponse: IdxResponse): NextStep[];
+export declare function filterValuesForRemediation(idxResponse: IdxResponse, remediationName: string, values: RemediationValues): RemediationValues;
+export declare function getRemediator(idxRemediations: IdxRemediation[], values: RemediationValues, options: RemediateOptions): Remediator | undefined;
+export declare function getNextStep(remediator: Remediator, idxResponse: IdxResponse): NextStep;
+export declare function handleIdxError(e: any, remediator?: any): RemediationResponse;

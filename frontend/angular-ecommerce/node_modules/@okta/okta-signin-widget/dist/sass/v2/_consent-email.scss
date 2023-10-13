@@ -1,0 +1,26 @@
+.enduser-email-consent {
+  .o-form-button-bar {
+    display: flex;
+  }
+  &--info {
+    display: flex;
+    margin-bottom: 1.5rem;
+    align-items: center;
+  }
+  &--icon {
+    margin-right: 1rem;
+    height: 2rem;
+    width: 2rem;
+    background-size: cover;
+  }
+}
+
+.otp-value {
+  font-size: x-large;
+  text-align: center;
+}
+
+.otp-warning {
+  color: $light-text-color;
+  text-align: center;
+}
