@@ -7,4 +7,9 @@
 # Angular Architecture Overview
 ![0_lQaPheoHIZpLtzVw](https://github.com/Sameh1Tarek/Amazon/assets/108232157/5e69b577-2369-4455-94c2-5b6737094639)
 
+# What is okta.com ? 
+![Screenshot (887)](https://github.com/sameh-tarek/Amazon/assets/108232157/6b0be459-6ff8-469c-89ee-caacd6f63afb)
+
+# OAuth 2 Cycle: 
+![Screenshot (891)](https://github.com/sameh-tarek/Amazon/assets/108232157/386020ad-d6cf-417f-aaab-292d22ee5d5e)
 
