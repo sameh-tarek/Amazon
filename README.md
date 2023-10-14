@@ -11,5 +11,8 @@
 ![Screenshot (887)](https://github.com/sameh-tarek/Amazon/assets/108232157/6b0be459-6ff8-469c-89ee-caacd6f63afb)
 
 # OAuth 2 Cycle: 
-![Screenshot (891)](https://github.com/sameh-tarek/Amazon/assets/108232157/386020ad-d6cf-417f-aaab-292d22ee5d5e)
+![Screenshot (891)](https://github.com/sameh-tarek/Amazon/assets/108232157/36e0cdac-5426-45dc-b581-491883f8d6e3)
+
+# JWT 
+![Screenshot (884)](https://github.com/sameh-tarek/Amazon/assets/108232157/dd3b0ff7-8025-4353-9b8b-b2f9076bd1f6)
 
