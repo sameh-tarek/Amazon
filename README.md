@@ -1,4 +1,34 @@
-# I am Building a Full Stack E-commerce Like Amazon with Angular and Java Spring Boot (includes Stripe Credit Card Payments)
+# Full Stack Development Project - E-Commerce Platform
+
+## Project Overview
+A comprehensive web application that mirrors the functionality of popular e-commerce platforms like Amazon. This project showcases the skills acquired through an immersive [Udemy course](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/?referralCode=2264F90C65A86316BB6B), presenting a well-rounded and robust full-stack solution crafted with Angular and Spring Boot.
+
+## Key Features
+
+- **Responsive Frontend:**
+  - Designed and implemented an engaging and responsive user interface using Angular.
+  - Ensured a seamless and consistent user experience across various devices.
+
+- **Efficient Backend:**
+  - Developed a scalable server-side solution utilizing the power of Spring Boot.
+  - Established smooth communication between the frontend and backend through RESTful APIs.
+
+- **Data Management:**
+  - Implemented robust database functionalities for effective data storage and retrieval.
+
+- **Security Measures:**
+  - Integrated strong authentication and authorization mechanisms to ensure secure user interactions.
+
+## Getting Started
+
+### Clone the Repository
+
+Get started by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/full-stack-angular-spring-boot-tutorial.git
+
+
 ![271463761-b3625328-ac46-46b3-b22e-6d33bde2dbf8](https://github.com/Sameh1Tarek/Amazon/assets/108232157/fc14ec46-e8ba-474e-8907-779dba52bd4d)
 
 # Spring Boot Project Architecture NTier
