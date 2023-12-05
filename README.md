@@ -27,7 +27,7 @@ Get started by cloning the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/full-stack-angular-spring-boot-tutorial.git
-
+```
 
 ![271463761-b3625328-ac46-46b3-b22e-6d33bde2dbf8](https://github.com/Sameh1Tarek/Amazon/assets/108232157/fc14ec46-e8ba-474e-8907-779dba52bd4d)
 
